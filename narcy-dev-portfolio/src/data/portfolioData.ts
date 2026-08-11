@@ -410,7 +410,7 @@ export const PROFILE_INFO = {
   location: 'Cotonou, Bénin & International Remote',
   github: 'https://github.com/houehounarcisse-star',
   comeup: 'https://comeup.com/@narcydev',
-  whatsapp: 'https://wa.me/2290144680551?text=Bonjour%20Narcy%20Dev,%20j%27aimerais%20discuter%20d%27un%20projet',
+  whatsapp: 'https://wa.me/22944680551?text=Bonjour%20Narcy%20Dev,%20j%27aimerais%20discuter%20d%27un%20projet',
   experienceYears: '5+',
   completedProjects: '35+',
   clientSatisfaction: '100%'
