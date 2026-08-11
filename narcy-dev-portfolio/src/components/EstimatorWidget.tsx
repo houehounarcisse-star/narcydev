@@ -124,7 +124,7 @@ export const EstimatorWidget: React.FC<EstimatorWidgetProps> = ({
 
     const text = `Bonjour Narcy Dev 👋,\n\nJe souhaite commander le projet suivant via l'estimateur de devis :\n\n📌 *Type de projet* : ${currentType.name}\n\n⚙️ *Options sélectionnées* :\n- ${optionsStr}\n\n💰 *Budget Estimé* : *${formattedPrice}*\n⏱️ *Délai Estimé* : ~${totalDays} jours ouvrés\n\nPouvons-nous échanger sur les détails de mise en œuvre ?`;
 
-    return `https://wa.me/22990526002?text=${encodeURIComponent(text)}`;
+    return `https://wa.me/22944680551?text=${encodeURIComponent(text)}`;
   }, [currentType, selectedOptionIds, isExpress, formattedPrice, totalDays]);
 
   // Handle Form pre-fill
